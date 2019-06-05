@@ -1,5 +1,5 @@
 public class encode{ 
-public static void main{String[] args()
+public static void mai(String[] args){
  String a="take it easy!";
  System.out.println(a);
  }
