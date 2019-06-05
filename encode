@@ -1,0 +1,6 @@
+public class encode{ 
+public static void main{String[] args()
+ String a="take it easy!";
+ System.out.println(a);
+ }
+}
